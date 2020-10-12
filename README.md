@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
 
-- 📝 I regulary write articles on [https://medium.com/@visualbean](https://medium.com/@visualbean)
+- 📝 I regulary write articles on: [https://medium.com/@visualbean](https://medium.com/@visualbean)
 
-- 💬 Ask me about **Vue, Powershell, C#, Architecture, Azure**
+- 💬 Ask me about: **Vue, Powershell, C#, Architecture, Azure**
 
-- 📫 How to reach me **alekcarlsen@gmail.com**
+- 📫 How to reach me: **alekcarlsen@gmail.com**
 
-- ⚡ Fun fact **I can juggle, and I love to go climbing.**
+- ⚡ Fun fact: **I can juggle, and I love to go climbing.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
