@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=visualbean" alt="visualbean" /></a> </p>
-
 - 📝 I regulary write articles on [https://medium.com/@visualbean](https://medium.com/@visualbean)
 
 - 💬 Ask me about **Vue, Powershell, C#, Architecture, Azure**
