@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **alekcarlsen@gmail.com**
 
-- ⚡ Fun fact: **I can juggle, and I love to go climbing.**
+- ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
