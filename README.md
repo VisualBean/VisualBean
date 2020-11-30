@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 📝 I regulary write articles on: [https://medium.com/@visualbean](https://medium.com/@visualbean)
-
 - 💬 Ask me about: **Vue, Powershell, C#, Architecture, Azure**
-
 - 📫 How to reach me: **alekcarlsen@gmail.com**
-
 - ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
+
+---
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+### Spotify Playing 🎧
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1112981871)
+---
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
