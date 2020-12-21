@@ -18,7 +18,6 @@
 ---
 
 ## Blogs posts
-<div align="center">
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing Nodejs Docker build times — Layering explained.](https://medium.com/@visualbean/optimizing-nodejs-docker-build-times-layering-explained-185d60a56e99?source=rss-35f0ba80b9cd------2)
 - [Keeping up with trends](https://medium.com/@visualbean/keeping-up-with-trends-19f9a7274577?source=rss-35f0ba80b9cd------2)
@@ -26,12 +25,11 @@
 - [C# String Concatenation](https://medium.com/@visualbean/c-string-concatenation-8873c9871240?source=rss-35f0ba80b9cd------2)
 - [Documenting role based authentication with Swagger](https://medium.com/@visualbean/documenting-role-based-authentication-with-swagger-fa1d6c835cfd?source=rss-35f0ba80b9cd------2)
 <!-- BLOG-POST-LIST:END -->
-</div>
 
 </br>
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/visualbean" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
