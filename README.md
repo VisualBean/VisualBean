@@ -19,11 +19,11 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How does AddJwtBearer get my public key?](https://visualbean.medium.com/how-does-addjwtbearer-get-my-public-key-74513c3e77df?source=rss-35f0ba80b9cd------2)
 - [How to copy to clipboard with VueJS](https://visualbean.medium.com/how-to-copy-to-clipboard-with-vuejs-a1b7ffb1170e?source=rss-35f0ba80b9cd------2)
 - [Debouncing async Tasks](https://visualbean.medium.com/debouncing-async-tasks-74a588621339?source=rss-35f0ba80b9cd------2)
 - [Optimizing Nodejs Docker build times — Layering explained.](https://visualbean.medium.com/optimizing-nodejs-docker-build-times-layering-explained-185d60a56e99?source=rss-35f0ba80b9cd------2)
 - [Keeping up with trends](https://visualbean.medium.com/keeping-up-with-trends-19f9a7274577?source=rss-35f0ba80b9cd------2)
-- [5 Quick NodeJS tips](https://visualbean.medium.com/5-quick-nodejs-tips-fadbcd513d65?source=rss-35f0ba80b9cd------2)
 <!-- BLOG-POST-LIST:END -->
 
 </br>
