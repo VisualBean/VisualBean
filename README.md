@@ -19,7 +19,7 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to improve the DDDness of your application.](https://visualbean.medium.com/how-to-improve-the-dddness-of-your-application-3db2e0536ad7?source=rss-35f0ba80b9cd------2)
+- [How to improve the DDDness of your application.](https://itnext.io/how-to-improve-the-dddness-of-your-application-3db2e0536ad7?source=rss-35f0ba80b9cd------2)
 - [How does AddJwtBearer get my public key?](https://visualbean.medium.com/how-does-addjwtbearer-get-my-public-key-74513c3e77df?source=rss-35f0ba80b9cd------2)
 - [How to copy to clipboard with VueJS](https://visualbean.medium.com/how-to-copy-to-clipboard-with-vuejs-a1b7ffb1170e?source=rss-35f0ba80b9cd------2)
 - [Debouncing async Tasks](https://visualbean.medium.com/debouncing-async-tasks-74a588621339?source=rss-35f0ba80b9cd------2)
