@@ -5,7 +5,7 @@
 
 - 📝 I regulary write articles on: [https://medium.com/@visualbean](https://medium.com/@visualbean)
 - 💬 Ask me about: **C#, Vue, Powershell, Software Architecture, Azure**
-- 📫 How to reach me: **Find me on [<img alt="Alex | LinkedIn" height="15px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/alexcarlsen/)**
+- 📫 How to reach me: **Find me on [<img alt="Alex | LinkedIn" height="15px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/alexcarlsen/)**
 - ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
