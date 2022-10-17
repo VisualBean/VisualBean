@@ -45,4 +45,4 @@
 </div>
 
 ## Other
-[![trophy](https://github-profile-trophy.vercel.app/?username=visualbean)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=visualbean&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
