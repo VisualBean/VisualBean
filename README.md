@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 📝 I regulary write articles on: [https://medium.com/@visualbean](https://medium.com/@visualbean)
-- 💬 Ask me about: **C#, Vue, Powershell, Software Architecture, Azure**
+- 💬 Ask me about: **C#, DDD, AsyncAPI, OpenAPI, Software Architecture, Azure**
 - 📫 How to reach me: **Find me on [<img alt="Alex | LinkedIn" height="15px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/alexcarlsen/)**
 - ⚡ Fun fact: **I love to go climbing, even though I am afraid of heights.**
 
