@@ -16,9 +16,10 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Resiliency in a nutshell (series)](https://itnext.io/resiliency-in-a-nutshell-part-1-introduction-ff6be859dbbb)
 - [How to improve the DDDness of your application.](https://itnext.io/how-to-improve-the-dddness-of-your-application-3db2e0536ad7?source=rss-35f0ba80b9cd------2)
 - [How does AddJwtBearer get my public key?](https://visualbean.medium.com/how-does-addjwtbearer-get-my-public-key-74513c3e77df?source=rss-35f0ba80b9cd------2)
-- [How to copy to clipboard with VueJS](https://visualbean.medium.com/how-to-copy-to-clipboard-with-vuejs-a1b7ffb1170e?source=rss-35f0ba80b9cd------2)
+- [Unveiling the power of marker interfaces](https://medium.com/itnext/unveiling-the-power-of-marker-interfaces-and-reflection-unit-testing-software-design-choices-ad76658756db)
 - [Debouncing async Tasks](https://visualbean.medium.com/debouncing-async-tasks-74a588621339?source=rss-35f0ba80b9cd------2)
 - [Optimizing Nodejs Docker build times — Layering explained.](https://visualbean.medium.com/optimizing-nodejs-docker-build-times-layering-explained-185d60a56e99?source=rss-35f0ba80b9cd------2)
 <!-- BLOG-POST-LIST:END -->
